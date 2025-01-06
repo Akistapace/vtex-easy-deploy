@@ -1,0 +1,3 @@
+[
+  "https://master--accounttest.myvtex.com",
+]
